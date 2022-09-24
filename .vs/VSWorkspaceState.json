@@ -1,0 +1,17 @@
+{
+  "ExpandedNodes": [
+    "",
+    "\\.idea",
+    "\\src",
+    "\\src\\main",
+    "\\src\\main\\resources",
+    "\\src\\main\\resources\\features",
+    "\\target",
+    "\\target\\classes",
+    "\\target\\classes\\features",
+    "\\target\\test-classes",
+    "\\target\\test-classes\\steps"
+  ],
+  "SelectedNode": "\\.idea\\vcs.xml",
+  "PreviewInSolutionExplorer": false
+}
